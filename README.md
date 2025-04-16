@@ -106,7 +106,7 @@ O Programa Dev Full Stack Júnior é uma iniciativa da <span style="color:#FF660
 ## 📫 Divulgação
 
 - 🌐 Site: [Programa +praTi](https://curso.maisprati.com.br)
-- 📱 LinkedIn: [Programa <span style="color:#FF6600;">+praTi</span>]([https://www.linkedin.com/company/pratij](https://www.linkedin.com/company/maisprati/posts/?feedView=all)
+- 📱 LinkedIn: [Programa +praTi](https://www.linkedin.com/company/maisprati/posts/?feedView=all)
 
 ---
 
