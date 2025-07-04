@@ -1,112 +1,80 @@
-<div align="center">
+# 📚 Lista de Exercícios JavaScript
 
-# 🚀 Programa Dev Full Stack Júnior <span style="color:#FF6600;">+praTi</span> - 2025/1
+> Exercícios práticos de JavaScript focados em conhecimentos básicos e estruturas de controle
 
-![images](https://github.com/user-attachments/assets/cab1722e-5ac6-4b2e-beac-64a90b3cdc06)
+## 🚀 Sobre o Projeto
 
-</div>
+Este repositório contém uma série de exercícios em JavaScript focados nos fundamentos da linguagem, incluindo conceitos básicos e estruturas de controle. Cada exercício está em um arquivo separado para facilitar o aprendizado.
 
-## 📋 Sobre o Projeto
+## 📋 Pré-requisitos
 
-O Programa Dev Full Stack Júnior é uma iniciativa da <span style="color:#FF6600;">+praTi</span>, em parceria com a `/codifica`, que proporciona uma formação aprofundada em dois pilares fundamentais do desenvolvimento web: o front-end e o back-end. O projeto visa capacitar os participantes com as competências técnicas necessárias para a criação de aplicações web completas, integrando de forma eficiente as interfaces do usuário com as funcionalidades do servidor.
+Antes de começar, você precisará ter instalado em sua máquina:
 
-> **Este repositório contém todos os projetos e atividades desenvolvidas durante o curso Dev Full Stack Júnior da <span style="color:#FF6600;">+praTi</span>.**
+- **Node.js** (versão 14 ou superior) 📦
+- **Git** (para clonar o repositório) 🔄
+- Um **editor de código** de sua preferência 💻
 
-## ⏱️ A Formação
+### 🔧 Instalação do Node.js
 
-<table>
-  <tr>
-    <td>
-      <h3>⏳ Duração</h3>
-      <ul>
-        <li>7 meses</li>
-        <li>Início: Abril de 2025</li>
-        <li>Fim: Novembro de 2025</li>
-      </ul>
-    </td>
-    <td>
-      <h3>🕒 Carga Horária</h3>
-      <ul>
-        <li>260 horas de aulas ao vivo</li>
-      </ul>
-    </td>
-    <td>
-      <h3>📝 Pré-Requisitos</h3>
-      <ul>
-        <li>Conhecimento básico em Introdução a Lógica e Programação</li>
-        <li>16 anos ou mais</li>
-        <li>Ensino fundamental completo</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+1. **Windows/Mac**: Baixe e instale do [site oficial](https://nodejs.org/)
+2. **Linux (Ubuntu/Debian)**:
+   ```bash
+   sudo apt update
+   sudo apt install nodejs npm
+   ```
 
-## 📚 Conteúdo Programático
+Para verificar se a instalação foi bem-sucedida:
+```bash
+node --version
+npm --version
+```
 
-<details open>
-  <summary><h3>1. 🧠 Lógica e Programação</h3></summary>
-  
-  > Explorar os conceitos fundamentais de Lógica de Programação, Git e Github, além de receber uma introdução ao Visual Studio Code como nosso ambiente de desenvolvimento.
-</details>
+## 📥 Como Baixar e Configurar
 
-<details open>
-  <summary><h3>2. 🎨 Front-end</h3></summary>
-  
-  > **JavaScript**: Fundamentos, conceitos avançados, práticas recomendadas.
-  >
-  > **React**: Desenvolvimento de interfaces de usuário utilizando React, componentização, props, JSX, eventos, state management, Hooks e rotas.
-</details>
+### 1. Clone o repositório
+```bash
+git clone https://github.com/seu-usuario/exercicios-javascript.git
+cd exercicios-javascript
+```
 
-<details open>
-  <summary><h3>3. ⚙️ Back-end</h3></summary>
-  
-  > **Java**: Programação orientada a objeto, estrutura e sintaxe da linguagem. Manipulação de dados, integração com o front-end. Introdução ao Blue J como ambiente de desenvolvimento Java. Introdução ao IntelliJ ou Eclipse como ambiente de desenvolvimento Java.
-  >
-  > **API's**: Criação e integração de API's, Desenvolvimento de API's rest com Spring Boot.
-</details>
+### 2. Instale as dependências (se houver)
+```bash
+npm install
+```
 
-<details open>
-  <summary><h3>4. 💾 Banco de Dados</h3></summary>
-  
-  > **SQL**: Fundamentos de bancos de dados relacionais e não relacionais, modelagem de dados, consultas. Comandos, relacionamento entre tabelas e foreing keys e inner join.
-</details>
+## 🎯 Como Executar os Exercícios
 
-<details open>
-  <summary><h3>5. 🔄 Aulas Complementares</h3></summary>
-  
-  > **Testes**: Testes com Jest unitários e de integração.
-  >
-  > **Métodos Ágeis**: Desenvolvimento de software através de métodos ágeis Scrum e Kanban.
-  >
-  > **Mentoria**: Aulas complementares com mentores externos sobre diferentes assuntos relevantes para atuação na área da tecnologia.
-</details>
+### 🖥️ Método 1: Terminal/Prompt de Comando
 
-<details open>
-  <summary><h3>6. 💼 Carreira</h3></summary>
-  
-  > **Soft Skills**: Comunicação eficaz, trabalho em equipe, gestão do tempo e inteligência emocional.
-  >
-  > **Mercado de Trabalho**: Currículo, LinkedIn e Entrevistas.
-</details>
+1. **Navegue até a pasta do projeto**:
+   ```bash
+   cd lista-exercicio-01
+   ```
 
-## 🛠️ Tecnologias Utilizadas
+2. **Execute o arquivo JavaScript**:
+   ```bash
+   node nome-do-arquivo.js
+   ```
 
-<div align="center">
+### 🔧 Método 2: VS Code com Code Runner
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+1. **Instale a extensão Code Runner** no VS Code
+2. **Abra o arquivo JavaScript**
+3. **Pressione `Ctrl+Alt+N`** (Windows/Linux) ou `Cmd+Alt+N` (Mac)
 
-</div>
+## 📝 Lista de Exercícios
 
-## 📫 Divulgação
+### 🎯 Conhecimentos Básicos
+- ✅ Variáveis (var, let, const)
+- ✅ Tipos de dados (string, number, boolean)
+- ✅ Operadores aritméticos (+, -, *, /, %)
+- ✅ Operadores de comparação (==, ===, !=, !==)
+- ✅ Operadores lógicos (&&, ||, !)
 
-- 🌐 Site: [Programa +praTi](https://curso.maisprati.com.br)
-- 📱 LinkedIn: [Programa +praTi](https://www.linkedin.com/company/maisprati/posts/?feedView=all)
-
----
+### 🔄 Estruturas de Controle
+- ✅ Condicionais (if, else if, else)
+- ✅ Estrutura switch/case
+- ✅ Loop for (básico e com arrays)
+- ✅ Loop while e do-while
+- ✅ Comando break e continue
 
