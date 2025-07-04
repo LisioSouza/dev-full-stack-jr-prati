@@ -53,7 +53,7 @@ npm install
 
 2. **Execute o arquivo JavaScript**:
    ```bash
-   node nome-do-arquivo.js
+   node questao-01.js
    ```
 
 ### 🔧 Método 2: VS Code com Code Runner
